@@ -1,41 +1,40 @@
-# My Personal Portfolio
-## About Me
-This application is a personal portfolio to display web development skills. My name is **Maureen Murugi**, a ***software development*** student with *Zindua School*
+# My Portfolio - A personal website about Maureen Murugi
+My personal portfilio displays my journey in tech as a student at Zindua School
 
-### About Zindua School
-They are running a discount from ~~Ksh 300,000~~ to Ksh250,000. See their website [Site Link](https://zinduaschool.com/)
+## Live Demo
+[Open My Portfolio](https://maureenmurugi.github.io/26i-first-webpage/)
 
-### Features
-The portfolio display:
-- My skills
-- My classes
-- My cohorts
+## Features
+### Technical Knowledge
+- HTML
+- CSS
+- JavaScript
 
-### Hoobies
-1. Swimming
-2. Dancing
-3. Travling
+### Non-technical Knowledge
+1. Problem-solving skills
+2. Teamwork
 
-## View My Album
-[Meet Maureen](assets/cadillac.jpg)
+## Technologies Used
+- HTM5
+- Git
+- GitHub Pages
 
-### Write a code with me
-`<script>JS </script>`
+## Installation Instructions
+1. Clone the repository
+2. Open the project folder
+3. Go Live with the `index.html` file
 
-```javascript
-function greet() {
-    console.log("Hello World!")
-}
+## Screenshots
+![Cadillac Escalade](/assets/cadillac.jpg)
 
-greet()
+## Project Structure
+```text
+firstProject/
+    |-- index.html
+
 ```
-```html
-<h1>Hello World!</h1>
-```
 
-## Project Tasks
-- [x] Create the HTML Structure
-- [ ] Add CSS Stylesheet
-- [ ] Add JavaScript functionality
-- [ ] Test application
-- [ ] Deploy Application
+## Author
+***Maureen Murugi***
+ - GitHub [MaureenMurugi](https://github.com/MaureenMurugi)
+ - LinkedIn [Maureen Murugi]()
