@@ -1,0 +1,19 @@
+cd - change directory
+cd # - change directory to the root path
+cd .. - change dirctory one path behind
+cd nameOfFile - change directory forward
+
+ls - list directory
+
+mkdir - make directory
+
+touch - creates a file > do not forget the extension
+
+cat - displays the contents of text file
+
+ctrl + c - terminate a running terminal
+
+MARKDOWN
+GIT and GITHUB
+git - version control system
+gitHub- an online platform that hosts Git repositories
